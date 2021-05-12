@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dff31e6ae7197f145a8aa6541fe4cb6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Button4: {instanceID: 0}
+  - Button5: {instanceID: 0}
+  - Button6: {instanceID: 0}
+  - image0_0: {fileID: 21300000, guid: 947dc3667a14ff34a84c863a8a70b72b, type: 3}
+  - image0_1: {fileID: 21300000, guid: 3b954123691f8f540bd7ffdcaa46b5d9, type: 3}
+  - image1_0: {fileID: 21300000, guid: 91b7f97c3ea598e4280f0a343cb39822, type: 3}
+  - image1_1: {fileID: 21300000, guid: 4543ed1f98d52274395195243801a8b5, type: 3}
+  - image2_0: {fileID: 21300000, guid: e1c7592bba3351c49a32175ba0d317ab, type: 3}
+  - image2_1: {fileID: 21300000, guid: 066d1bc536ae3414a826676f70be6d5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

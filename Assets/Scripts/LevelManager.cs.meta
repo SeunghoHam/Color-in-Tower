@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3780c54dff353334b871bddc81047092
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraMovement: {instanceID: 0}
+  - StartPortalPrefab: {instanceID: 0}
+  - EndPortalPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
